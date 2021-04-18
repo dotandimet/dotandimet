@@ -107,16 +107,4 @@ B.Sc. Biology, Tel-Aviv University.
 
 ## Projects
 
-### CPAN Modules (Perl)
-Released The following modules on CPAN, all based on the Mojolicious Web Framework
-
-- Mojo::Feed (2014 - 2020) - RSS parser [CPAN] [Github]
-- Mojo::UserAgent::Role::Queued (2017 - 2018) - adds a queue to a popular Perl asynchronous web client library to control the number of concurrent requests [CPAN] [Github]
-- Mojolicious::Plugin::ConfigHashMerge (2014 - 2017) - Perlish Configuration for Mojolicious applications, with merging of deeply-nested defaults.[CPAN] [Github]
-- Mojolicious::Plugin::Alias (2014)- allows mapping URL paths to collections of static files (obsolete) [CPAN] [Github]
-
-### The Rabbit and the Chocolate Carrot Cake
-
-(2011 - 2014) Developed and released an iOS application (in Hebrew and 
-English, for Iphone 4 and the early ipad) around an animated film made 
-by my brother, who provided all Graphics and Sound.
+See https://github.com/dotandimet/
