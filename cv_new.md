@@ -1,9 +1,10 @@
 # Dotan Dimet
 
-  Kibbutz Beit Nir, 7956000
-  Cellular: 054-4572817
-  dotan@corky.net
-  http://corky.net/dotan/
+  - Kibbutz Beit Nir, 7956000
+  - Cellular: 054-4572817
+  - dotandimet@gmail.com
+  - https://github.com/dotandimet
+  - https://www.linkedin.com/in/dotan-dimet/
 
 ## Skills:
     
