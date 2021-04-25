@@ -99,8 +99,7 @@ company's FastCopy and FastLogic products.
 ## Education:
 
 #### 1993 - 1996:
-Research student, Department of Immunology
-and Cell Biology, Tel-Aviv University.
+Research student, Department of Immunology and Cell Biology, Tel-Aviv University.
 
 #### 1990 - 1993:
 B.Sc. Biology, Tel-Aviv University.
