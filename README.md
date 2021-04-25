@@ -1,10 +1,13 @@
 ### Hi there 👋
 
+Most of the stuff I've got on GitHub falls into one of two categories: CPAN modules
+(Perl) or Role-playing game utilities written in Javascript (usually unfinished).
 
 ### CPAN Modules (Perl)
+
 I Released The following modules on CPAN, all based on the Mojolicious Web Framework
 
-- [Mojo::Feed](https://github.com/dotandimet/Mojo-Feed) (2014 - 2020) - RSS parser [CPAN](https://metacpan.org/pod/Mojo%3A%3AFeed)
+- [Mojo::Feed](https://github.com/dotandimet/Mojo-Feed) (2014 - 2020) - is an RSS parser [CPAN](https://metacpan.org/pod/Mojo%3A%3AFeed)
 - Mojo::UserAgent::Role::Queued (2017 - 2018) - adds a queue to a popular Perl asynchronous web client library to control the number of concurrent requests [CPAN] [Github]
 - Mojolicious::Plugin::ConfigHashMerge (2014 - 2017) - Perlish Configuration for Mojolicious applications, with merging of deeply-nested defaults.[CPAN] [Github]
 - Mojolicious::Plugin::Alias (2014)- allows mapping URL paths to collections of static files (obsolete) [CPAN] [Github]
