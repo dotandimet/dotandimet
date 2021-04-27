@@ -27,6 +27,8 @@ the formatting, so I wrote it as a Javascript app, using firebase for the backen
 modern javascript without a build step, and my two goals with this project were to have (a) no backend server and (b) no build step! Webpack can get stuffed, I'm fine with
 simply hitting the browser's refresh button to see changes...
 
+You can see it in action here https://the-academy-app.netlify.app/ if you sign in with a Google ID.
+
 <!--
 ### The Rabbit and the Chocolate Carrot Cake
 
