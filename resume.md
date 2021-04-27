@@ -17,13 +17,16 @@
 
 #### February 2002 - present
   
-#### 2018 - present
-Full Stack developer on Software Development Team, Computation Biology Platform
+Full Stack developer on Software Development Team, Computational Biology Platform
 
-Full Stack web developer, building systems with Vue, Node, Python, Oracle, SunGrid and Kubernetes.
+- As the single full-time developer in an early-stage start-up, worked in close collaboration with
+plant researchers to design complex queries and build custom reports, exploring genes related to
+commerically important traits.
 
-#### 2011 - 2018
-Platform infrastructure Engineer, Software Development Team, Computational Genomics department
+- Designed and built Athlete™, the core gene discovery platform of the company.
+Focused on a comparative genomics approach, it enabled complex cross-species 
+multidimensional queries and was used in all the company's research programs.
+(Oracle, Perl, Javascript, Shell)
 
   - As the Computational Genomics group grew and diversified, introduced source control, issue-tracking
 and CI/CD to the team.
@@ -34,17 +37,9 @@ for more than a decade (Perl, Javascript), supporting use of multiple front-end 
 (Ext/Sencha 3,4,5, Angular.js)
 - Acted as Application DBA, managing database schemas, troubleshooting slow queries and other issues,
 built a web UI to help teammates view Oracle processes and find problems.
+- General Linux infrastructure troubleshooting.
+  - Full Stack web developer, currently building systems with Vue, Node, Python, Oracle, SunGrid and Kubernetes.
 
-#### 2002 - 2011
-Computational Genomics developer
-
-- As the single full-time developer in an early-stage start-up, worked in close collaboration with
-plant researchers to design complex queries and build custom reports, exploring genes related to
-commerically important traits.
-- Designed and built Athlete™, the core gene discovery platform of the company.
-Focused on a comparative genomics approach, it enabled complex cross-species 
-multidimensional queries and was used in all the company's research programs.
-(Oracle, Perl, Javascript, Shell)
 
 ### Compugen 
 
