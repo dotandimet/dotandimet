@@ -7,7 +7,7 @@ or Role-playing game utilities written in Javascript (usually unfinished).
 ### Perl Modules (also on [CPAN](https://metacpan.org/author/DOTAN))
 
 These were written as fun exercises, or extracted from more ambitious projects that went nowhere.
-Publishing them taught me a lot about writing documentation and tests (CPAN has _amazing_ testing infrastructure, 
+Publishing them taught me a lot about writing documentation and tests (CPAN has _amazing_ testing infrastructure,
 run by a handful of volunteers), and about releasing software.
 
 - [Mojo::UserAgent::Role::Queued](https://github.com/dotandimet/Mojo-UserAgent-Role-Queued) (2017 - 2018) - adds a queue to the **Mojo::UserAgent** web client to control the number of concurrent asynchronous requests [CPAN](https://metacpan.org/release/Mojo-UserAgent-Role-Queued). I gave a talk about why and how I wrote it (and the silly mistakes I made along the way), the slides for which are available [online](https://mojo-ua-role-queued.netlify.app/).
@@ -17,7 +17,7 @@ run by a handful of volunteers), and about releasing software.
 
 ### Javascript RPG utilities
 
-[Recruit](https://github.com/dotandimet/recruit) and [Masks](https://github.com/dotandimet/masks) are editable character sheets for [Night's Black Agents] and [Masks], respectively. They're both unfinished, little more than finger-exercises in Vue.js. 
+[Recruit](https://github.com/dotandimet/recruit) and [Masks](https://github.com/dotandimet/masks) are editable character sheets for [Night's Black Agents] and [Masks], respectively. They're both unfinished, little more than finger-exercises in Vue.js.
 
 [NPC Names](https://github.com/dotandimet/npc_names/) is a simple script to generate random millenial (or Gen Z?) names, by crossing the 1000 most common baby names with the 1000 most common American surnames. [Online here](https://dotandimet.github.io/npc_names/).
 
@@ -32,8 +32,8 @@ You can see it in action here https://the-academy-app.netlify.app/ if you sign i
 <!--
 ### The Rabbit and the Chocolate Carrot Cake
 
-(2011 - 2014) Developed and released an iOS application (in Hebrew and 
-English, for Iphone 4 and the early ipad) around an animated film made 
+(2011 - 2014) Developed and released an iOS application (in Hebrew and
+English, for Iphone 4 and the early ipad) around an animated film made
 by my brother, who provided all Graphics and Sound.
 
 **dotandimet/dotandimet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
