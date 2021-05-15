@@ -1,0 +1,26 @@
+{
+  "name": "dotandimet",
+  "version": "1.0.0",
+  "description": "export markdown resume to html",
+  "main": "md2html.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotandimet/dotandimet.git"
+  },
+  "author": "Dotan Dimet <dotandimet@gmail.com>",
+  "license": "Artistic-2.0",
+  "bugs": {
+    "url": "https://github.com/dotandimet/dotandimet/issues"
+  },
+  "homepage": "https://github.com/dotandimet/dotandimet#readme",
+  "dependencies": {
+    "chokidar": "^3.5.1",
+    "jsdom": "^16.5.3",
+    "marked": "^2.0.3",
+    "puppeteer": "^9.1.1"
+  }
+}

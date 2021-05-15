@@ -13,9 +13,7 @@
 
 ## Work Experience:
 
-### Evogene
-
-#### February 2002 - present
+### Evogene (February 2002 - present)
 
 Backend and Full Stack Developer, currently building systems with Vue, Node, Python, Oracle, SunGrid and Kubernetes.
 
@@ -29,7 +27,7 @@ Backend and Full Stack Developer, currently building systems with Vue, Node, Pyt
   (Oracle, Perl, Javascript, Shell)
 
 - As the Computational Genomics group grew and diversified, introduced source control, issue-tracking
-    and CI/CD to the team.
+  and CI/CD to the team.
 - Migrated scheduled tasks from multiple cron tabs to Jenkins.
 - Lead the transition of a 17-person team (and a 10 year old repository) from Subversion to Git. (2015)
 - Developed and extended the internal web framework used by over 20 developers
@@ -40,9 +38,7 @@ Backend and Full Stack Developer, currently building systems with Vue, Node, Pyt
   built a web UI to help teammates view Oracle processes and find problems.
 - General Linux infrastructure troubleshooting.
 
-### Compugen
-
-#### January 2001 - December 2002:
+### Compugen (January 2001 - December 2002):
 
 Programmer on LabOnWeb and Gencarta products (Perl, Web, Oracle/MySQL)
 
@@ -57,9 +53,7 @@ Programmer on LabOnWeb and Gencarta products (Perl, Web, Oracle/MySQL)
   recommended best practices for programming and process for carrying out
   code reviews.
 
-### Sungard Business Integration
-
-#### June 1999 - December 2000:
+### Sungard Business Integration (June 1999 - December 2000):
 
 Programmer on the Knowledge Manager team.
 (C++, Unix)
@@ -70,9 +64,7 @@ Programmer on the Knowledge Manager team.
   Solaris, AIX and HP Unix native compilers.
 - Designed a tool for merging data schemas.
 
-### SoftLink Ltd.
-
-#### November 1995 - April 1999:
+### SoftLink Ltd. (November 1995 - April 1999):
 
 Technical writer,
 webmaster and pre sales support assistant
@@ -88,13 +80,9 @@ webmaster and pre sales support assistant
 
 ## Education:
 
-#### 1993 - 1996:
+- Research student, Department of Immunology and Cell Biology, Tel-Aviv University (1993-1996).
 
-Research student, Department of Immunology and Cell Biology, Tel-Aviv University.
-
-#### 1990 - 1993:
-
-B.Sc. Biology, Tel-Aviv University.
+- B.Sc. Biology, Tel-Aviv University (1990-1993).
 
 ## Projects
 

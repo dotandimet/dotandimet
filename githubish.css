@@ -34,12 +34,12 @@ h3 {
 h4 {
   font-size: 1em;
 }
-.markdown-body h1,
-.markdown-body h2,
-.markdown-body h3,
-.markdown-body h4,
-.markdown-body h5,
-.markdown-body h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin-top: 24px;
   margin-bottom: 16px;
   font-weight: 600;
@@ -54,3 +54,23 @@ h2 {
 #content {
   margin: 0 10% 0 10%;
 }
+
+/* For printing: */
+@page {
+  margin: 1cm;
+}
+
+#content {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  grid-template-rows: auto;
+  align-items: start;
+  justify-items: start;
+}
+
+h1 { grid-column: 1 / span 2; grid-row: 1 }
+#contact { grid-column: 2; grid-row: 2 }
+#skills_block { grid-column: 2; grid-row: 3 }
+#education_block { grid-column: 2; grid-row: 4 }
+#projects_block { grid-column: 2; grid-row: 5}
+#work-experience_block { grid-column: 1; grid-row: 2 / 8 }

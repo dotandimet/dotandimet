@@ -1,17 +1,12 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <title>Dotan Dimet - Resume</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="githubish.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="githubish.css" />
   </head>
   <body>
-    <div id="content"></div>
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script type="module">
-      const doc = `[%%INCLUDE resume.md %%]`;
-      document.getElementById("content").innerHTML = marked(doc);
-    </script>
+    <div id="content">[%%INCLUDE resume.md %%]</div>
   </body>
 </html>
