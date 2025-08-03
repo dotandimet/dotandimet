@@ -1,89 +1,81 @@
-# Dotan Dimet
+# **Dotan Dimet**
 
-- Kibbutz Beit Nir, 7956000
-- Cellular: 054-4572817
-- dotandimet@gmail.com
-- https://github.com/dotandimet
-- https://www.linkedin.com/in/dotan-dimet/
+Kibbutz Beit Nir, 7956000 · 054-4572817 · [dotandimet@gmail.com](mailto:dotandimet@gmail.com)
+[GitHub](https://github.com/dotandimet) | [LinkedIn](https://www.linkedin.com/in/dotan-dimet/)
 
-## Skills:
+---
 
-- Javascript, Perl, Python and C. HTTP, HTML, CSS. SQL (Oracle), Linux, English, Hebrew
-- Deep knowledge of web development, from CGI to SPA
+## **Professional Summary**
 
-## Work Experience:
+DevOps Engineer with 20+ years of experience across software development, infrastructure, and CI/CD. A creative and resilient problem solver with a strong grasp of modern DevOps tools and practices, including Kubernetes, Jenkins, Argo Workflows, AWS, GCP, and private package management. Known for taking ownership of complex systems, building scalable infrastructure, and delivering robust solutions across multi-disciplinary teams. Passionate about automation, documentation, and continuous improvement.
 
-### Evogene (February 2002 - present)
+---
 
-Backend and Full Stack Developer, currently building systems with Vue, Node, Python, Oracle, SunGrid and Kubernetes.
+## **Technical Skills**
 
-- As the single full-time developer in an early-stage start-up, worked in close collaboration with
-  plant researchers to design complex queries and build custom reports, exploring genes related to
-  commerically important traits.
+**Languages & Scripting:** Python, JavaScript, Perl, Bash, C, SQL
 
-- Designed and built Athlete™, the core gene discovery platform of the company.
-  Focused on a comparative genomics approach, it enabled complex cross-species
-  multidimensional queries and was used in all the company's research programs.
-  (Oracle, Perl, Javascript, Shell)
+**DevOps & CI/CD:** Jenkins, CloudBees, Argo Workflows, GitHub Actions
 
-- As the Computational Genomics group grew and diversified, introduced source control, issue-tracking
-  and CI/CD to the team.
-- Migrated scheduled tasks from multiple cron tabs to Jenkins.
-- Lead the transition of a 17-person team (and a 10 year old repository) from Subversion to Git. (2015)
-- Developed and extended the internal web framework used by over 20 developers
-  for more than a decade (Perl, Javascript), supporting use of multiple front-end frameworks
-  (Ext/Sencha 3,4,5, Angular.js)
+**Cloud & Infra:** AWS, GCP, Kubernetes, Docker, Linux, Git, Snyk
 
-- Acted as Application DBA, managing database schemas, troubleshooting slow queries and other issues,
-  built a web UI to help teammates view Oracle processes and find problems.
-- General Linux infrastructure troubleshooting.
+**Package Management:** R (CRRAN), Python (pip), Node.js (npm)
 
-### Compugen (January 2001 - December 2002):
+**Other:** HTML, CSS, Vue.js, Oracle
 
-Programmer on LabOnWeb and Gencarta products (Perl, Web, Oracle/MySQL)
+---
 
-- Maintained, updated and modified LabOnWeb, a Website
-  providing online bioinformatic services, including
-  iRACE, a distributed sequence extension and analysis service, and
-  a MySQL-backed support site for the Oligolibraries DNA chips
-  product.
-- Served as Technology expert assisting other developers with
-  Web GUI-related issues (HTML, CSS, Javascript).
-- Participated in Perl Coding Standards Committee, defining
-  recommended best practices for programming and process for carrying out
-  code reviews.
+## **Experience**
 
-### Sungard Business Integration (June 1999 - December 2000):
+### **CytoReason Ltd.** — *DevOps Engineer*
 
-Programmer on the Knowledge Manager team.
-(C++, Unix)
+**Nov 2021 – July 2025**
 
-- Profiled C++ application code.
-- Ported C++ libraries and applications developed on
-  Windows with Microsoft Visual C++ to
-  Solaris, AIX and HP Unix native compilers.
-- Designed a tool for merging data schemas.
+* Took **end-to-end ownership** of key infrastructure components, including **CI/CD systems**, **private package management**, and **cloud infrastructure** (AWS, GCP, GitHub).
 
-### SoftLink Ltd. (November 1995 - April 1999):
+* **CI/CD:** Migrated fragmented Jenkins pipelines to a unified **CloudBees enterprise platform**, improving reliability, scalability, and maintainability.
 
-Technical writer,
-webmaster and pre sales support assistant
+* Acted as the **primary troubleshooter** for CI failures, dependency issues, and infrastructure incidents, providing support across the organization.
 
-- Wrote and edited full documentation (manuals, online help) for
-  FastCopy, FastLogic and fmonitor products, as well as promotional
-  materials.
-- Built and maintained the company Website, including software download
-  and registration process.
-- Designed a system for a customer for automated file
-  exchange between UNIX (SCO) and VMS, using shell scripts and the
-  company's FastCopy and FastLogic products.
+* Managed and supported **AWS infrastructure**, including CodeOcean-based developer environments for bioinformatics pipelines. Addressed challenges in **storage, performance, and security monitoring**.
 
-## Education:
+* **Private Package Management:** Designed and implemented secure, unified systems for R (CRRAN), Python, and JavaScript. Ensured seamless integration with **developer workflows**, **CI/CD**, and **computational research pipelines**. Supported both internal teams and external partners.
 
-- Research student, Department of Immunology and Cell Biology, Tel-Aviv University (1993-1996).
+* Contributed to **UI improvements** in internal tools (Cyto-CC), enhancing usability and responsiveness.
 
-- B.Sc. Biology, Tel-Aviv University (1990-1993).
+---
 
-## Projects
+### **Evogene Ltd.** — *Senior Backend & Full Stack Developer*
 
-See https://github.com/dotandimet/
+**Feb 2002 – Nov 2021**
+
+* Designed and led development of **Athlete™**, a genomics discovery platform used across all research programs.
+* Migrated the engineering team from **Subversion to Git**, modernized CI/CD with **Jenkins**, and developed custom internal frameworks.
+* Acted as Application DBA — optimized schemas, monitored performance, and built internal tooling.
+* Extended and maintained internal web frameworks (Perl/JavaScript) used for over a decade.
+
+---
+
+### **Earlier Roles:**
+
+**Compugen Ltd.** – Programmer (2001–2002)
+
+**Sungard BI** – C++ Developer (1999–2000)
+
+**SoftLink Ltd.** – Technical Writer & Webmaster (1995–1999)
+
+---
+
+## **Education**
+
+**B.Sc. Biology**, Tel Aviv University
+
+**Graduate Research**, Immunology and Cell Biology, Tel-Aviv University
+
+---
+
+## **Side Projects & Open Source**
+
+See [github.com/dotandimet](https://github.com/dotandimet) for contributions and personal projects
+
+
