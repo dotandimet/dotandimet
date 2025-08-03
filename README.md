@@ -17,8 +17,6 @@ run by a handful of volunteers), and about releasing software.
 
 ### Javascript RPG utilities
 
-[Recruit](https://github.com/dotandimet/recruit) and [Masks](https://github.com/dotandimet/masks) are editable character sheets for [Night's Black Agents] and [Masks], respectively. They're both unfinished, little more than finger-exercises in Vue.js.
-
 [NPC Names](https://github.com/dotandimet/npc_names/) is a simple script to generate random millenial (or Gen Z?) names, by crossing the 1000 most common baby names with the 1000 most common American surnames. [Online here](https://dotandimet.github.io/npc_names/).
 
 [The Academy](https://github.com/dotandimet/The-Academy) started as a Google doc, a list of NPCs in a game about a school for super-powered teens; I was unsatisfied with
@@ -27,7 +25,7 @@ the formatting, so I wrote it as a Javascript app, using firebase for the backen
 modern javascript without a build step, and my two goals with this project were to have (a) no backend server and (b) no build step! Webpack can get stuffed, I'm fine with
 simply hitting the browser's refresh button to see changes...
 
-You can see it in action here https://the-academy-app.netlify.app/ if you sign in with a Google ID.
+You can see it in action here [https://the-academy-app.netlify.app/](https://the-academy-app.netlify.app/) if you sign in with a Google ID.
 
 <!--
 ### The Rabbit and the Chocolate Carrot Cake
